@@ -2,7 +2,7 @@
 
 Meu nome é Enzo Lumazini
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo e aprendendo na linguagem JavaScript
 - Uilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos:D
 
@@ -11,3 +11,6 @@ Meu nome é Enzo Lumazini
 - lumazinienzo123@gmail.com
   
 - @lumazini777
+
+
+![](https://media1.tenor.com/m/c58GIp5nnVcAAAAC/angry.gif)
