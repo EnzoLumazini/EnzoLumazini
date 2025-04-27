@@ -1,9 +1,10 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Enzo Lumazini
+Meu nome é Enzo Lumazini Sampaio
 
+- Sou estudante da [Dio](https://web.dio.me/home)
 - Fui estudante da [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo e aprendendo na linguagem JavaScript e Python
+- Estou me desenvolvendo e aprendendo na linguagem JavaScript, Python
 - Uilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos:D
 
 ### Você pode entrar em contato comigo via 📫
